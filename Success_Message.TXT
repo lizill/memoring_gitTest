@@ -4,11 +4,13 @@
 
 	# message
 	# 안녕하세요, 메세지 테스트
+	# Github Test
 	
 	# 깃허브 연습
 	
 	# Contact
 	# E-mail : lizill@naver.com
 	
-	# 추가된 메세지 입니다.
-	# 추가된 메세지 입니다.
+	
+	
+	
