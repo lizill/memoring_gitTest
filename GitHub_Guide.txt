@@ -1,8 +1,11 @@
+
+
+
+	-- Github 명령어 --
+
 Push 전엔 Pull이 있다!
 
-------------------------------------------------------
-
-pull
+	- Pull -
 
 git pull origin master
 - pull 하는 커멘드, 지정 해놓은 repository에서 끌어옵니다.
@@ -16,10 +19,29 @@ git add .
 git commit -m "message"
 - 인식 할 수 있는 commit을 달아줍니다.
 
-------------------------------------------------------
-
-push
+	- Push -
 
 git push origin master
 - 실제로 Git에 Push!
+
+------------------------------------------------------
+
+	-- Root Folder 연결 --
+
+폴더 오른쪽 클릭
+Git Bash Here
+
+git init	// .git 폴더 생성
+git remote add origin 'https://github.com/주소복사/.git'
+커멘드창에 차례로 입력
+
+------------------------------------------------------
+
+	-- Traking 순서 --
+
+git status
+git add .
+git commit -m "message"
+git push origin master
+
 
